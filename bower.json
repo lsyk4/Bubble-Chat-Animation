@@ -1,0 +1,17 @@
+{
+  "name": "vi-markup",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "1.12.4",
+    "jquery-ui":"1.12.1",
+  }
+}
