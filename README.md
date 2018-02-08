@@ -5,7 +5,10 @@ If you want, you can only use the following files:
 * dist/css/main.min.css
 * src/js/chatbubbles.js
 
-You can also search for a less online compiler and compile 
+You can also search for a less online compiler and compile
 `src/less/chatbubbles.less`
 
 Tell me if you have any suggestion.
+
+#What's new?
+* Avatars Added!
